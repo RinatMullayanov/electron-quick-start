@@ -9,3 +9,17 @@ npm install electron-prebuilt -g
 ```
 npm start
 ```
+
+### 3. Build
+OS X
+```
+npm run buildOsx
+```
+Windows
+```
+npm run buildWin
+```
+Linux
+```
+npm run buildLinux
+```
